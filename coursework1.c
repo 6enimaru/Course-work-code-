@@ -1,3 +1,5 @@
+//Выполняли: Иосифов Никита и Барышев Никита, группа ИУСбд-02-23
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
